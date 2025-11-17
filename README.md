@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Emanoel Camargo 
 
-- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo IFNMG, 5º Período
+- 🔭 Hoje curso Análise e Desenvolvimento de Sistemas pelo IFNMG, 6º Período
 - 🌱 Estudando PHP || Laravel...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maneelscam&hide=contribs,prs&show_icons=true&theme=radical)
